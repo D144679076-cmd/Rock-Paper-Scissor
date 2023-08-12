@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Github\\Rock-Paper-Scissor\\paper-rock-scissor\\Pages\\Sign_in_data.csproj",
-      "projectName": "Sign_in_data",
-      "projectPath": "E:\\Github\\Rock-Paper-Scissor\\paper-rock-scissor\\Pages\\Sign_in_data.csproj",
+      "projectUniqueName": "E:\\Github\\Rock-Paper-Scissor\\paper-rock-scissor\\Data\\Data.csproj",
+      "projectName": "Data",
+      "projectPath": "E:\\Github\\Rock-Paper-Scissor\\paper-rock-scissor\\Data\\Data.csproj",
       "packagesPath": "C:\\Users\\Duy\\.nuget\\packages\\",
-      "outputPath": "E:\\Github\\Rock-Paper-Scissor\\paper-rock-scissor\\Pages\\obj\\",
+      "outputPath": "E:\\Github\\Rock-Paper-Scissor\\paper-rock-scissor\\Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Duy\\AppData\\Roaming\\NuGet\\NuGet.Config",
