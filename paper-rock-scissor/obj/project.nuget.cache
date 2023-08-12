@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kVGY3pNOzbpXHC6QshtT6/NT2TzScgylmGUVo1PH5lzq9GH8akHBEQ24aU/4o1OHmQIYfwi/kGC1m8lEJhDz+g==",
+  "dgSpecHash": "i9/RL7Aj9GX8WHR00PWXkMtprrHnCGp1FHWsfgRZHnRWhWkWzMzrNgvuAGUhv+4g+WuOUhqgztbyYef56AEI4g==",
   "success": true,
-  "projectFilePath": "d:\\paper-rock-scissor\\paper-rock-scissor.csproj",
+  "projectFilePath": "e:\\Github\\Rock-Paper-Scissor\\paper-rock-scissor\\paper-rock-scissor.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "e:\\Github\\Rock-Paper-Scissor\\paper-rock-scissor\\paper-rock-scissor.csproj": {}
+    "E:\\Github\\Rock-Paper-Scissor\\paper-rock-scissor\\Pages\\Sign_in_data.csproj": {}
   },
   "projects": {
-    "e:\\Github\\Rock-Paper-Scissor\\paper-rock-scissor\\paper-rock-scissor.csproj": {
+    "E:\\Github\\Rock-Paper-Scissor\\paper-rock-scissor\\Pages\\Sign_in_data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\Github\\Rock-Paper-Scissor\\paper-rock-scissor\\paper-rock-scissor.csproj",
-        "projectName": "paper-rock-scissor",
-        "projectPath": "e:\\Github\\Rock-Paper-Scissor\\paper-rock-scissor\\paper-rock-scissor.csproj",
+        "projectUniqueName": "E:\\Github\\Rock-Paper-Scissor\\paper-rock-scissor\\Pages\\Sign_in_data.csproj",
+        "projectName": "Sign_in_data",
+        "projectPath": "E:\\Github\\Rock-Paper-Scissor\\paper-rock-scissor\\Pages\\Sign_in_data.csproj",
         "packagesPath": "C:\\Users\\Duy\\.nuget\\packages\\",
-        "outputPath": "e:\\Github\\Rock-Paper-Scissor\\paper-rock-scissor\\obj\\",
+        "outputPath": "E:\\Github\\Rock-Paper-Scissor\\paper-rock-scissor\\Pages\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Duy\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -22,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -52,9 +51,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
