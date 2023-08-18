@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "EigVOspFNg72ALsxcdnn7bf1bvi98Plyd4cBvxBHMwo=",
+  "Hash": "knTHeHRZG36DnI6YgLhWD2+6GsoJaxdBCVvKU37c11k=",
   "Source": "paper-rock-scissor",
   "BasePath": "_content/paper-rock-scissor",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "paper-rock-scissor\\wwwroot",
       "Source": "paper-rock-scissor",
-      "ContentRoot": "D:\\paper-rock-scissor\\wwwroot\\",
+      "ContentRoot": "E:\\Github\\Rock-Paper-Scissor\\paper-rock-scissor\\wwwroot\\",
       "BasePath": "_content/paper-rock-scissor",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\paper-rock-scissor\\obj\\Debug\\net7.0\\scopedcss\\bundle\\paper-rock-scissor.styles.css",
+      "Identity": "E:\\Github\\Rock-Paper-Scissor\\paper-rock-scissor\\obj\\Debug\\net7.0\\scopedcss\\bundle\\paper-rock-scissor.styles.css",
       "SourceId": "paper-rock-scissor",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\paper-rock-scissor\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "ContentRoot": "E:\\Github\\Rock-Paper-Scissor\\paper-rock-scissor\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
       "BasePath": "_content/paper-rock-scissor",
       "RelativePath": "paper-rock-scissor.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\paper-rock-scissor\\obj\\Debug\\net7.0\\scopedcss\\bundle\\paper-rock-scissor.styles.css"
+      "OriginalItemSpec": "E:\\Github\\Rock-Paper-Scissor\\paper-rock-scissor\\obj\\Debug\\net7.0\\scopedcss\\bundle\\paper-rock-scissor.styles.css"
     },
     {
-      "Identity": "D:\\paper-rock-scissor\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\paper-rock-scissor.bundle.scp.css",
+      "Identity": "E:\\Github\\Rock-Paper-Scissor\\paper-rock-scissor\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\paper-rock-scissor.bundle.scp.css",
       "SourceId": "paper-rock-scissor",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\paper-rock-scissor\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "E:\\Github\\Rock-Paper-Scissor\\paper-rock-scissor\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/paper-rock-scissor",
       "RelativePath": "paper-rock-scissor.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\paper-rock-scissor\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\paper-rock-scissor.bundle.scp.css"
+      "OriginalItemSpec": "E:\\Github\\Rock-Paper-Scissor\\paper-rock-scissor\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\paper-rock-scissor.bundle.scp.css"
     },
     {
-      "Identity": "D:\\paper-rock-scissor\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "E:\\Github\\Rock-Paper-Scissor\\paper-rock-scissor\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "paper-rock-scissor",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\paper-rock-scissor\\wwwroot\\",
+      "ContentRoot": "E:\\Github\\Rock-Paper-Scissor\\paper-rock-scissor\\wwwroot\\",
       "BasePath": "_content/paper-rock-scissor",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\paper-rock-scissor\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "E:\\Github\\Rock-Paper-Scissor\\paper-rock-scissor\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "paper-rock-scissor",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\paper-rock-scissor\\wwwroot\\",
+      "ContentRoot": "E:\\Github\\Rock-Paper-Scissor\\paper-rock-scissor\\wwwroot\\",
       "BasePath": "_content/paper-rock-scissor",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\paper-rock-scissor\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Identity": "E:\\Github\\Rock-Paper-Scissor\\paper-rock-scissor\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "SourceId": "paper-rock-scissor",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\paper-rock-scissor\\wwwroot\\",
+      "ContentRoot": "E:\\Github\\Rock-Paper-Scissor\\paper-rock-scissor\\wwwroot\\",
       "BasePath": "_content/paper-rock-scissor",
       "RelativePath": "css/open-iconic/FONT-LICENSE",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
-      "Identity": "D:\\paper-rock-scissor\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Identity": "E:\\Github\\Rock-Paper-Scissor\\paper-rock-scissor\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "paper-rock-scissor",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\paper-rock-scissor\\wwwroot\\",
+      "ContentRoot": "E:\\Github\\Rock-Paper-Scissor\\paper-rock-scissor\\wwwroot\\",
       "BasePath": "_content/paper-rock-scissor",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "D:\\paper-rock-scissor\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Identity": "E:\\Github\\Rock-Paper-Scissor\\paper-rock-scissor\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "SourceId": "paper-rock-scissor",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\paper-rock-scissor\\wwwroot\\",
+      "ContentRoot": "E:\\Github\\Rock-Paper-Scissor\\paper-rock-scissor\\wwwroot\\",
       "BasePath": "_content/paper-rock-scissor",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Identity": "D:\\paper-rock-scissor\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Identity": "E:\\Github\\Rock-Paper-Scissor\\paper-rock-scissor\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "SourceId": "paper-rock-scissor",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\paper-rock-scissor\\wwwroot\\",
+      "ContentRoot": "E:\\Github\\Rock-Paper-Scissor\\paper-rock-scissor\\wwwroot\\",
       "BasePath": "_content/paper-rock-scissor",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Identity": "D:\\paper-rock-scissor\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Identity": "E:\\Github\\Rock-Paper-Scissor\\paper-rock-scissor\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "SourceId": "paper-rock-scissor",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\paper-rock-scissor\\wwwroot\\",
+      "ContentRoot": "E:\\Github\\Rock-Paper-Scissor\\paper-rock-scissor\\wwwroot\\",
       "BasePath": "_content/paper-rock-scissor",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Identity": "D:\\paper-rock-scissor\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Identity": "E:\\Github\\Rock-Paper-Scissor\\paper-rock-scissor\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "SourceId": "paper-rock-scissor",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\paper-rock-scissor\\wwwroot\\",
+      "ContentRoot": "E:\\Github\\Rock-Paper-Scissor\\paper-rock-scissor\\wwwroot\\",
       "BasePath": "_content/paper-rock-scissor",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Identity": "D:\\paper-rock-scissor\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Identity": "E:\\Github\\Rock-Paper-Scissor\\paper-rock-scissor\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "SourceId": "paper-rock-scissor",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\paper-rock-scissor\\wwwroot\\",
+      "ContentRoot": "E:\\Github\\Rock-Paper-Scissor\\paper-rock-scissor\\wwwroot\\",
       "BasePath": "_content/paper-rock-scissor",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Identity": "D:\\paper-rock-scissor\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Identity": "E:\\Github\\Rock-Paper-Scissor\\paper-rock-scissor\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "SourceId": "paper-rock-scissor",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\paper-rock-scissor\\wwwroot\\",
+      "ContentRoot": "E:\\Github\\Rock-Paper-Scissor\\paper-rock-scissor\\wwwroot\\",
       "BasePath": "_content/paper-rock-scissor",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\ICON-LICENSE"
     },
     {
-      "Identity": "D:\\paper-rock-scissor\\wwwroot\\css\\open-iconic\\README.md",
+      "Identity": "E:\\Github\\Rock-Paper-Scissor\\paper-rock-scissor\\wwwroot\\css\\open-iconic\\README.md",
       "SourceId": "paper-rock-scissor",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\paper-rock-scissor\\wwwroot\\",
+      "ContentRoot": "E:\\Github\\Rock-Paper-Scissor\\paper-rock-scissor\\wwwroot\\",
       "BasePath": "_content/paper-rock-scissor",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
-      "Identity": "D:\\paper-rock-scissor\\wwwroot\\css\\site.css",
+      "Identity": "E:\\Github\\Rock-Paper-Scissor\\paper-rock-scissor\\wwwroot\\css\\site.css",
       "SourceId": "paper-rock-scissor",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\paper-rock-scissor\\wwwroot\\",
+      "ContentRoot": "E:\\Github\\Rock-Paper-Scissor\\paper-rock-scissor\\wwwroot\\",
       "BasePath": "_content/paper-rock-scissor",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "D:\\paper-rock-scissor\\wwwroot\\favicon.png",
+      "Identity": "E:\\Github\\Rock-Paper-Scissor\\paper-rock-scissor\\wwwroot\\favicon.png",
       "SourceId": "paper-rock-scissor",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\paper-rock-scissor\\wwwroot\\",
+      "ContentRoot": "E:\\Github\\Rock-Paper-Scissor\\paper-rock-scissor\\wwwroot\\",
       "BasePath": "_content/paper-rock-scissor",
       "RelativePath": "favicon.png",
       "AssetKind": "All",

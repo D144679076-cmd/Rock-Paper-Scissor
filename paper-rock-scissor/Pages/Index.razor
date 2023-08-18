@@ -1,6 +1,25 @@
 ﻿@page "/"
 
-<PageTitle>Index</PageTitle>
+<PageTitle>Home Page</PageTitle>
+@while (runing==false)
+{
+    <div class="MainMenu">
+        <button id="Play" name="Play">
+            <img src="" />
+        </button>
+    </div>
+}
+
+@while (runing)
+{
+    <div class="PlayingMenu">
+        <div>
+            <h2 class="Player1Scorce">@Data.Scorce.Player1</h2>
+            <h2 class="Player2Scorce">@Data.Scorce.Player2</h2>
+        </div>
+    </div>
+}
+
 @code{
-    private bool check = Data.Sign_in_data.Signed_in_data;
+    bool runing = false;
 }
