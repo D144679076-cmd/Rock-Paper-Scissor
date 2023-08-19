@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Github\\Rock-Paper-Scissor\\paper-rock-scissor\\paper-rock-scissor.csproj": {}
+    "e:\\Github\\Rock-Paper-Scissor\\paper-rock-scissor\\paper-rock-scissor.csproj": {}
   },
   "projects": {
-    "E:\\Github\\Rock-Paper-Scissor\\paper-rock-scissor\\paper-rock-scissor.csproj": {
+    "e:\\Github\\Rock-Paper-Scissor\\paper-rock-scissor\\paper-rock-scissor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Github\\Rock-Paper-Scissor\\paper-rock-scissor\\paper-rock-scissor.csproj",
+        "projectUniqueName": "e:\\Github\\Rock-Paper-Scissor\\paper-rock-scissor\\paper-rock-scissor.csproj",
         "projectName": "paper-rock-scissor",
-        "projectPath": "E:\\Github\\Rock-Paper-Scissor\\paper-rock-scissor\\paper-rock-scissor.csproj",
+        "projectPath": "e:\\Github\\Rock-Paper-Scissor\\paper-rock-scissor\\paper-rock-scissor.csproj",
         "packagesPath": "C:\\Users\\Duy\\.nuget\\packages\\",
-        "outputPath": "E:\\Github\\Rock-Paper-Scissor\\paper-rock-scissor\\obj\\",
+        "outputPath": "e:\\Github\\Rock-Paper-Scissor\\paper-rock-scissor\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Duy\\AppData\\Roaming\\NuGet\\NuGet.Config",
