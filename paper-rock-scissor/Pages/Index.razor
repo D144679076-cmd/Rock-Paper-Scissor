@@ -12,14 +12,24 @@
 
 @while (runing)
 {
-    <div class="PlayingMenu">
-        <div>
+    <div>
+        <div class="Scorce">
             <h2 class="Player1Scorce">@Data.Scorce.Player1</h2>
             <h2 class="Player2Scorce">@Data.Scorce.Player2</h2>
+        </div>
+        <div  class="OnlinePlayer">
+            <img class="OnlinePlayer"/>
+            <p>@OnlinePlayerName</p>
+        </div>
+        <div class="HostPlayer">
+            <img class="StacticPlayer" />
+            <p>@StacticPlayerName</p>
         </div>
     </div>
 }
 
 @code{
     bool runing = false;
+    string OnlinePlayerName = Data.Sign_in_data.OnlinePlayerName;
+    string StacticPlayerName = Data.Sign_in_data.StacticPlayerName;
 }

@@ -3,6 +3,8 @@
     public class Sign_in_data
     {
         static public bool Signed_in_data {get;set;} = false;
+        static public string OnlinePlayerName {get;set;} 
+        static public string StacticPlayerName {get;set;} 
     }
     public class Scorce
     {
